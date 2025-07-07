@@ -61,7 +61,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-1. **Clone the repository:**
+**Clone the repository:**
 ```bash
 git clone https://github.com/whyshivansh/reelspro.git
 cd reelspro
